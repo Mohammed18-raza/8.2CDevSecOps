@@ -219,3 +219,6 @@ When the wizard is done, restart the application and run the exploits again to c
 ##Jenkins Pipeline Testing - Email notification 
 Testing Extended Email Notification - TASK 2 
 
+## EMAIL NOTIFICATION - TEST 2
+Testing email notification again...
+
